@@ -1,0 +1,9 @@
+[INFOS]
+gaf=0
+title=WW_Two-factor_Authentication
+image=description.gif
+description=description.rtf
+source=0
+typesite=0
+[OBJECT]
+WW_Two-factor_Authentication.wwp=4096
